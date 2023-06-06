@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="slider1">Takvimini Gör!</string>
+    <string name="slider1alt">Kolayca takvimine eriş, sulama günlerini gör, zamanını yönet!</string>
+    <string name="slider2">Eklemekte Özgürsün!</string>
+    <string name="slider2alt">İstediğin bitkini kolayca ekle, gireceğin detaylar senin kontrolünde!</string>
+    <string name="slider3">Hatırlatıcını Yönet!</string>
+    <string name="slider3alt">Hatırlatıcılarını dilediğin gibi kapatıp açabilirsin. Alarm kurmak kadar kolay!</string>
+    <string name="sliderStart">Ekle, Hatırla, Sula!</string>
+    <string name="sliderStartAlt">Harcayacağın suyu minimize et, ekolojik dengeyi koru!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
